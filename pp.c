@@ -31,8 +31,8 @@ void encryptV1(char *src) {
     for (int i = strlen(src); i >= 0; i--){
         if(src[i] == '/') break;
         if(src[i] == '.'){
-        len = i - 1;
-        break;
+            len = i - 1;
+            break;
         }
     }
     for (int i = 1; i < len; i++){
