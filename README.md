@@ -3,6 +3,13 @@ Kelompok C05
 
  - Muhammad Iqbal Humam 05111840000103
  - Dohan Pranata Wikanda 05111840000139
+---
+### 1. Enkripsi V1
+setiap folder yang memiliki nama dengan awalan "encv1_" akan dienkripsi isinya menggunakan enkripsi caesar cipher.
+- 
+
+
+
 
 ---
 ### 4. Membuat Log
